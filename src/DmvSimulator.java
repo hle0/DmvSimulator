@@ -13,6 +13,6 @@ public class DmvSimulator {
             System.out.println("Number " + called + "? ... Number " + called + "?");
         }
 
-        System.out.println("Sorry, you don't have the necessary paperwork.");
+        System.out.println("Are you joking?  You seriously don't have the paperwork?  Pathetic.  NEXT!!!");
     }
 }
